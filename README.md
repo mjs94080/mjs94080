@@ -1,6 +1,6 @@
 # Sup yo?! :surfer:
 
-![Balcula](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgur.com%2Fgallery%2FfNgOrfb&psig=AOvVaw0wt6OyvrB5f2-ZqdNecr3W&ust=1671951386463000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIDmuK7XkfwCFQAAAAAdAAAAABAD)
+![18 Bronzemen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwPG_XRxtiRS9Tkniq1DEuoTv4MNUz1K0sFklBhkxm1go0yJg6Gnb8tRSIUqEHrSvFbxg&usqp=CAU)
 
 <!--
 **mjs94080/mjs94080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
