@@ -1,6 +1,6 @@
 # Sup yo?! :surfer:
 
-![Balcula] ("https://giphy.com/embed/veddnFSmZLZEsLunsw" width="480" height="254" frameBorder="0" class="giphy-embed" allowFullScreen)
+![Balcula] (https://giphy.com/embed/veddnFSmZLZEsLunsw)
 
 <!--
 **mjs94080/mjs94080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
