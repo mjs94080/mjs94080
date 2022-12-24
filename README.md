@@ -1,6 +1,6 @@
 
 
-![18 Bronzemen](<https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwPG_XRxtiRS9Tkniq1DEuoTv4MNUz1K0sFklBhkxm1go0yJg6Gnb8tRSIUqEHrSvFbxg&usqp=CAU />)
+![18 Bronzemen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwPG_XRxtiRS9Tkniq1DEuoTv4MNUz1K0sFklBhkxm1go0yJg6Gnb8tRSIUqEHrSvFbxg&usqp=CAU)
 # Sup yo?! :surfer:
 
 Im learning React and JavaScript.
