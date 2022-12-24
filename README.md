@@ -1,4 +1,4 @@
-### Sup yo?! :surfer:
+# Sup yo?! :surfer:
 
 <!--
 **mjs94080/mjs94080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
