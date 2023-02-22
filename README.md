@@ -1,6 +1,6 @@
 
 
-![18 Bronzemen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwPG_XRxtiRS9Tkniq1DEuoTv4MNUz1K0sFklBhkxm1go0yJg6Gnb8tRSIUqEHrSvFbxg&usqp=CAU)
+![18 Bronzemen](https://photos.google.com/album/AF1QipMGf1E_skkNfwbtAVTVCgHIqN_I1UAxt5JYNHdJ/photo/AF1QipO01fOP1dmff-f3Ia3iVt2Y5kBEaMs3GXgYhbh8)
 # Sum of my skills :surfer:
 
 [![My Skills](https://skillicons.dev/icons?i=aws,react,js,html,css,linux,bash,git,arduino)](https://skillicons.dev)
