@@ -1,6 +1,6 @@
 
 
-![FireArt](https://i.imgur.com/QKY5lIT.gif)
+![FireArt](https://i.giphy.com/media/w3UlckAjX13DW/giphy.webp)
 # Sum of my skills & intersts :surfer:
 
 [![My Skills](https://skillicons.dev/icons?i=aws,react,js,html,css,linux,bash,git,arduino)](https://skillicons.dev)
