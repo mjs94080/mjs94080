@@ -1,7 +1,7 @@
 
 
 ![FireArt](https://i.giphy.com/media/w3UlckAjX13DW/giphy.webp)
-# Sum of my skills & intersts :surfer:
+# Sum of my technical kung-fu skills & interests: :surfer:
 
 [![My Skills](https://skillicons.dev/icons?i=aws,react,js,html,css,linux,bash,git,arduino)](https://skillicons.dev)
 
