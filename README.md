@@ -5,20 +5,17 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,react,js,html,css,linux,bash,git,arduino)](https://skillicons.dev)
 
-<p>
-  🔭 I’m currently working on React.
-- 🌱 I’m currently learning Software Development.
+
+- 🔭 I’m in coding bootcamp for on React.
+- 🌱 I’m learning to be a Software Developer.
 - 👯 I’m looking to collaborate on fun apps.
-- 🤔 I’m looking for help with JavaScript and React.
-- 💬 Ask me about your mom.
-- 📫 How to reach me: mjs94080@gmail.com
 - 😄 Pronouns: Dude.
 - ⚡ Fun fact: I use to be homeless.
 
-<!--
-**mjs94080/mjs94080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 
--->
+
+
+
+
+
