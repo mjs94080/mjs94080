@@ -3,7 +3,7 @@
 ![Sifu Pai Mei](https://i.giphy.com/media/w3UlckAjX13DW/giphy.webp)
 # Sum of my kung-fu tech skills & interests: :surfer:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,react,js,html,css,linux,bash,git,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,react,js,vscode,bash,git,html,css,linux,arduino)](https://skillicons.dev)
 
 
 - 🔭 I’m in coding bootcamp for React.
