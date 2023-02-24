@@ -8,8 +8,8 @@
 
 - 🔭 I’m in coding bootcamp for React.
 - 🌱 I’m learning to be a Software Developer.
-- 👯 I’m looking to collaborate on fun apps.
-- 😄 Pronouns: Dude.
+- 👯 I like attending Hacker Space meetups.
+- 😄 I love skateboarding.
 - ⚡ Fun fact: I use to be homeless.
 
 <p>Reach me on <a href="www.linkedin.com/in/mackenzie-santiago-94080" rel="nofollow" ><strong>LINKEDIN</strong></a></p>
