@@ -9,7 +9,7 @@
 - 🔭 I’m in coding bootcamp for React.
 - 🌱 I’m learning to be a Software Developer.
 - 👯 I like attending Hacker Space meetups.
-- 😄 I love skateboarding.
+- 😄 I enjoy skateboarding with friends.
 - ⚡ Fun fact: I use to be homeless.
 
 <p>Reach me on <a href="www.linkedin.com/in/mackenzie-santiago-94080" rel="nofollow" ><strong>LINKEDIN</strong></a></p>
