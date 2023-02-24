@@ -12,7 +12,7 @@
 - 😄 I enjoy skateboarding with friends.
 - ⚡ Fun fact: I use to be homeless.
 
-<p>Reach me on <a href="www.linkedin.com/in/mackenzie-santiago-94080" rel="nofollow" ><strong>LINKEDIN</strong></a></p>
+<p>Reach me on <a href="https://www.linkedin.com/in/mackenzie-santiago-94080" rel="nofollow" ><strong>LINKEDIN</strong></a></p>
 
 
 
