@@ -1,7 +1,7 @@
 
 
 ![Sifu Pai Mei](https://i.giphy.com/media/w3UlckAjX13DW/giphy.webp)
-# sum kung-fu tech skills & interests: :surfer:
+# sum of my skillz & interests: :surfer:
 
 [![My Skills](https://skillicons.dev/icons?i=aws,react,js,vscode,bash,git,html,css,linux,arduino)](https://skillicons.dev)
 
