@@ -1,6 +1,6 @@
 
 
-![Sifu Pai Mei](https://i.giphy.com/media/w3UlckAjX13DW/giphy.webp)
+![Sifu Pai Mei](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVhZDUwZGM1YmE1OGQxYWY3ZmY3ZTBjOGQ2NGJkYWIwNGE0YjRkNiZjdD1n/JKnF1k5RExyoSrzPGJ/giphy.gif)
 # sum of my skillz & interests: :surfer:
 
 [![My Skills](https://skillicons.dev/icons?i=aws,react,js,vscode,bash,git,html,css,linux,arduino)](https://skillicons.dev)
