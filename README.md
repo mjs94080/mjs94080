@@ -10,7 +10,7 @@
 - 🌱 I’m learning to be a Software Developer.
 - 👯 I like attending Hacker Space meetups.
 - 😄 I enjoy skateboarding with friends.
-- ⚡ Fun fact: I studied abroad Paris, France.
+- ⚡ Fun fact: I practice tattooing my own leg.
 
 <p>Reach me on <a href="https://www.linkedin.com/in/mackenzie-santiago-94080" rel="nofollow" ><strong>LINKEDIN</strong></a></p>
 
